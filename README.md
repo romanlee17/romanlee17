@@ -1,3 +1,3 @@
 ### Hi, my name is Roman! 👋
 
-I am a game developer on Unity, having experiences in both WebGL and Mobile games, and also building robust solutions in C# and TypeScript.
+I am primarily a Unity game developer, having experiences with both WebGL and Mobile games, and also building robust solutions in C# and TypeScript.
