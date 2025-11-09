@@ -2,4 +2,5 @@ Unity developer with 5+ years of experience in GameDev. Automating workflows and
 
 Unity | C# | Custom Editor | Addressables | AssetBundles | Performance profiling | Performance optimization | Architecture
 
-<a href="https://romanlee17.com/">https://romanlee17.com/</a>
+For contacts and more information, visit:
+<a href="https://romanlee17.com/">romanlee17.com</a>
