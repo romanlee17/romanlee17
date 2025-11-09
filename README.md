@@ -1,3 +1,3 @@
-### Hi, my name is Roman!
+Unity developer with 5+ years of experience in GameDev. Automating workflows and building performant game and web experiences. Building tools that automate and scale processes.
 
-Primarily a Unity game developer, having experience with both WebGL and Mobile games, I build robust solutions in C# and TypeScript to automate and simplify many game development processes!
+Unity | C# | Custom Editor | Addressables | AssetBundles | Performance profiling | Performance optimization | Architecture
